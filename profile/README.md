@@ -1,5 +1,11 @@
 # GEOMETOR
 ## exploring the architecture of all that is
+
+- mission
+- projects
+- discussions
+
+~ [phi ARCHITECT](https://github.com/phiarchitect)
 <!--
 
 **Here are some ideas to get you started:**
