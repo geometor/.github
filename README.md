@@ -1,5 +1,5 @@
 # GEOMETOR
-## exploring the architecture all that is
+## exploring the architecture of all that is
 
 - mission
 - projects
