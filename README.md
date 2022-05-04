@@ -1,6 +1,3 @@
-# GEOMETOR
-## exploring the architecture of all that is
+#.github
 
-- mission
-- projects
-- discussions
+profile content for GEOMETOR github organization
