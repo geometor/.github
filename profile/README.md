@@ -1,4 +1,4 @@
-Welcome to the *GEOMETOR* organization on Github
+Welcome to the **GEOMETOR** organization on Github
 
 <!--
 
