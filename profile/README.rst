@@ -6,8 +6,6 @@ fundamental aspects of geometry, nature, and logic. Through a series of
 repositories, our mission is to study, model, and decode geometric
 constructions and their relationship to the natural and mathematical world.
 
-At the heart is the `GEOMETOR explorer`_ - a Python library for building and
-analyzing geometric constructions with sympbolic algebra.
 
 Check out general info on the project:
 
@@ -30,12 +28,14 @@ is a quick overview:
 .. - `phyllotaxis`_: Explore and model the geometric underpinnings of plant structures.
 .. - `pappus`_: Examine and interpret the geometric intricacies of Pappus' Theorem.
 
+At the heart is the `GEOMETOR explorer`_ - a Python library for building and
+analyzing geometric constructions with sympbolic algebra.
 
-- phyllotaxis
-  model and investigate geometry of plants
+.. - phyllotaxis
+  .. model and investigate geometry of plants
 
-- pappus
-  model and investigate pappus theorem
+.. - pappus
+  .. model and investigate pappus theorem
 
 Contributing
 ------------
