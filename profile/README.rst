@@ -2,63 +2,59 @@ exploring the architecture of all that is
 -----------------------------------------
 
 **GEOMETOR** is an open-source initiative that aims to dive deep into the
-fundamental aspects of geometry, nature, and logic. Through a series of
-repositories, our mission is to study, model, and decode geometric
-constructions and their relationship to the natural and mathematical world.
+fundamental aspects of geometry, nature, and logic.
 
-At the heart is the `GEOMETOR explorer`_ - a Python library for building and
-analyzing geometric constructions with sympbolic algebra.
+All of the research and development for **GEOMETOR** is located here in a collection of repositories.
+There are many, but these three establish the foundation for the work:
 
-Check out general info on the project:
+- elements_: codify the fundamentals of geometry and logical relationships
+- divine_: model and analyze the golden ratio
+- euclid_: extract knowledge from the classic work
 
-- geometor.com_ 
-- 
-
-**GEOMETOR** is an organization led by `phi ARCHITECT`_ 
-
-
-Repositories
-------------
-Our work spans a wide range of subjects, each with a dedicated repository. Here
-is a quick overview:
-
-- `elements`_: codify the fundamentals of geometry and logical relationships
-- `divine`_: model and analyze the golden ratio
-- `euclid`_: extract knowledge from the classic work
-- `explorer`_: build and interact with geometric models
+.. - explorer_: build and interact with geometric models
+.. At the heart is the `GEOMETOR explorer`_ - a Python library for building and
+.. analyzing geometric constructions with sympbolic algebra.
 
 .. - `phyllotaxis`_: Explore and model the geometric underpinnings of plant structures.
+  .. model and investigate geometry of plants
 .. - `pappus`_: Examine and interpret the geometric intricacies of Pappus' Theorem.
+  .. model and investigate pappus theorem
 
+Each repository has:
 
-- phyllotaxis
-  model and investigate geometry of plants
+- MIT license
+- Python source code
+- source for documentation website
+- discussion group
 
-- pappus
-  model and investigate pappus theorem
+The website for each project is statically-generated and hosted through GitHub.
+
 
 Contributing
 ------------
+Participate
+Support
+
 We welcome contributions from anyone interested in geometry, mathematics,
 nature, or programming. Feel free to contribute to our repositories, raise
 issues, or propose enhancements.
 
-License
--------
-Each repository within the GEOMETOR organization holds its specific licensing
-information. We generally use open-source licenses to facilitate the widespread
-use and adaptation of our tools.
-
-Contact
+Discuss
 -------
 Reach out to us at our official email or via our GitHub profiles for any
 queries, suggestions, or discussions. We are always eager to engage with our
 community and foster a collaborative environment.
 
+Check out general info on the project:
+
+- geometor.com_
+-
+**GEOMETOR** is an organization led by `phi ARCHITECT`_
+
 .. _`phi ARCHITECT`: https://github.com/phiarchitect
-.. _`elements`: https:/github.com/geometor/elements
-.. _`divine`: https:/github.com/geometor/divine
-.. _`euclid`: https:/github.com/geometor/euclid
-.. _`explorer`: https:/github.com/geometor/explorer
+.. _elements: https:/github.com/geometor/elements
+.. _divine: https:/github.com/geometor/divine
+.. _euclid: https:/github.com/geometor/euclid
+.. _explorer: https:/github.com/geometor/explorer
 .. _geometor.com: https://geometor.com
 
