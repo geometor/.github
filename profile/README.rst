@@ -60,9 +60,9 @@ Check out general info on the project:
 **GEOMETOR** is an organization led by `phi ARCHITECT`_
 
 .. _`phi ARCHITECT`: https://github.com/phiarchitect
-.. _elements: https:/github.com/geometor/elements
-.. _divine: https:/github.com/geometor/divine
-.. _euclid: https:/github.com/geometor/euclid
-.. _explorer: https:/github.com/geometor/explorer
+.. _elements: https://github.com/geometor/elements
+.. _divine: https://github.com/geometor/divine
+.. _euclid: https://github.com/geometor/euclid
+.. _explorer: https://github.com/geometor/explorer
 .. _geometor.com: https://geometor.com
 
