@@ -56,9 +56,9 @@ queries, suggestions, or discussions. We are always eager to engage with our
 community and foster a collaborative environment.
 
 .. _`phi ARCHITECT`: https://github.com/phiarchitect
-.. _`elements`: /geometor/elements
-.. _`divine`: https:/github.com/geometor/divine
-.. _`euclid`: https:/github.com/geometor/euclid
-.. _`explorer`: https:/github.com/geometor/explorer
+.. _`elements`: https://github.com/geometor/elements
+.. _`divine`: https://github.com/geometor/divine
+.. _`euclid`: https://github.com/geometor/euclid
+.. _`explorer`: https://github.com/geometor/explorer
 .. _geometor.com: https://geometor.com
 
