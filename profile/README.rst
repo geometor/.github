@@ -24,8 +24,11 @@ Each repository has:
 
 - MIT license
 - Python source code
-- source for documentation website
+- demo code
+- source for project website
 - discussion group
+- log
+- todo list
 
 The website for each project is statically-generated and hosted through GitHub.
 
@@ -53,10 +56,11 @@ Reach out to us at our official email or via our GitHub profiles for any
 queries, suggestions, or discussions. We are always eager to engage with our
 community and foster a collaborative environment.
 
-Check out general info on the project:
+Check out general info on **GEOMETOR**:
 
 - geometor.com_
 -
+
 **GEOMETOR** is an organization led by `phi ARCHITECT`_
 
 .. _`phi ARCHITECT`: https://github.com/phiarchitect
