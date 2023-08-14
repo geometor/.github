@@ -29,6 +29,14 @@ Each repository has:
 
 The website for each project is statically-generated and hosted through GitHub.
 
+.. At the heart is the `GEOMETOR explorer`_ - a Python library for building and
+.. analyzing geometric constructions with sympbolic algebra.
+
+.. - phyllotaxis
+  .. model and investigate geometry of plants
+
+.. - pappus
+  .. model and investigate pappus theorem
 
 Contributing
 ------------
