@@ -1,34 +1,25 @@
 exploring the architecture of all that is
 -----------------------------------------
 
-**GEOMETOR** is an open-source initiative that aims to dive deep into the
+**GEOMETOR** is an open-source initiative dedicated to the
 fundamental aspects of geometry, nature, and logic.
 
 All of the research and development for **GEOMETOR** is located here in a collection of repositories.
 There are many, but these three establish the foundation for the work:
 
-- elements_: codify the fundamentals of geometry and logical relationships
+- elements_: tools for modeling and rendering geometric constructions
 - divine_: model and analyze the golden ratio
 - euclid_: extract knowledge from the classic work
 
-.. - explorer_: build and interact with geometric models
-.. At the heart is the `GEOMETOR explorer`_ - a Python library for building and
-.. analyzing geometric constructions with sympbolic algebra.
-
-.. - `phyllotaxis`_: Explore and model the geometric underpinnings of plant structures.
-  .. model and investigate geometry of plants
-.. - `pappus`_: Examine and interpret the geometric intricacies of Pappus' Theorem.
-  .. model and investigate pappus theorem
-
 Each repository has:
 
-- MIT license
 - Python source code
 - demo code
 - source for project website
 - discussion group
 - log
 - todo list
+- MIT license
 
 The website for each project is statically-generated and hosted through GitHub.
 
@@ -41,16 +32,13 @@ The website for each project is statically-generated and hosted through GitHub.
 .. - pappus
   .. model and investigate pappus theorem
 
-Contributing
-------------
-Participate
-Support
-
+contribute
+----------
 We welcome contributions from anyone interested in geometry, mathematics,
 nature, or programming. Feel free to contribute to our repositories, raise
 issues, or propose enhancements.
 
-Discuss
+discuss
 -------
 Reach out to us at our official email or via our GitHub profiles for any
 queries, suggestions, or discussions. We are always eager to engage with our
@@ -68,5 +56,6 @@ Check out general info on **GEOMETOR**:
 .. _divine: https://github.com/geometor/divine
 .. _euclid: https://github.com/geometor/euclid
 .. _explorer: https://github.com/geometor/explorer
+
 .. _geometor.com: https://geometor.com
 
