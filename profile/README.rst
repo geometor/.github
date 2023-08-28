@@ -4,12 +4,14 @@ exploring the architecture of all that is
 **GEOMETOR** is an open-source initiative dedicated to the
 fundamental aspects of geometry, nature, and logic.
 
-All of the research and development for **GEOMETOR** is located here in a collection of repositories.
-There are many, but these three establish the foundation for the work:
+All of the research and development for **GEOMETOR** is located here in a
+collection of repositories. There are many, but these establish the foundation for the work:
 
-- elements_: tools for modeling and rendering geometric constructions
+- model_: tools for modeling geometric constructions
+- render_: tools for rendering geometric constructions
 - divine_: model and analyze the golden ratio
-- euclid_: extract knowledge from the classic work
+- elements_: extract and codify knowledge from the classic work
+- explorer_: explore and interact with geometric models
 
 Each repository has:
 
@@ -52,9 +54,10 @@ Check out general info on **GEOMETOR**:
 **GEOMETOR** is an organization led by `phi ARCHITECT`_
 
 .. _`phi ARCHITECT`: https://github.com/phiarchitect
+.. _model: https://github.com/geometor/model
+.. _render: https://github.com/geometor/render
 .. _elements: https://github.com/geometor/elements
 .. _divine: https://github.com/geometor/divine
-.. _euclid: https://github.com/geometor/euclid
 .. _explorer: https://github.com/geometor/explorer
 
 .. _geometor.com: https://geometor.com
