@@ -1,6 +1,9 @@
 exploring the architecture of all that is
 -----------------------------------------
 
+.. image:: ./arcprize-logo-200.gif
+   :align: right
+
 **GEOMETOR** is an open-source initiative dedicated to the
 fundamental aspects of geometry, nature, and logic.
 
