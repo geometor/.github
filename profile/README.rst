@@ -1,11 +1,17 @@
 exploring the architecture of all that is
 -----------------------------------------
 
-.. image:: ./arcprize-logo-200.gif
-   :align: right
+.. image:: ./root3-harmonics.png
+   :align: center
+
 
 **GEOMETOR** is an open-source initiative dedicated to the
 fundamental aspects of geometry, nature, and logic.
+
+.. figure:: arcprize-logo-200.gif
+   :align: right
+
+   the machine dreams
 
 All of the research and development for **GEOMETOR** is located here in a
 collection of repositories. There are many, but these establish the foundation for the work:
