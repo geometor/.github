@@ -1,7 +1,7 @@
 exploring the architecture of all that is
 -----------------------------------------
 
-.. image:: ./root3-harmonics.png
+.. image:: ./root3-harmonics-banner.png
    :align: center
 
 
