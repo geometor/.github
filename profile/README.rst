@@ -8,10 +8,20 @@ exploring the architecture of all that is
 **GEOMETOR** is an open-source initiative dedicated to the
 fundamental aspects of geometry, nature, and logic.
 
-.. figure:: arcprize-logo-200.gif
-   :align: right
 
-   the machine dreams
+abstraction and reasoning
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: ./arc-banner.png
+   :align: center
+
+
+- arcprize_: code and reference materials
+- arcprizesessions_:
+
+geometric modeling
+~~~~~~~~~~~~~~~~~~
+
 
 All of the research and development for **GEOMETOR** is located here in a
 collection of repositories. There are many, but these establish the foundation for the work:
@@ -21,6 +31,16 @@ collection of repositories. There are many, but these establish the foundation f
 - divine_: model and analyze the golden ratio
 - elements_: extract and codify knowledge from the classic work
 - explorer_: explore and interact with geometric models
+
+
+.. At the heart is the `GEOMETOR explorer`_ - a Python library for building and
+.. analyzing geometric constructions with sympbolic algebra.
+
+.. - phyllotaxis
+  .. model and investigate geometry of plants
+
+.. - pappus
+  .. model and investigate pappus theorem
 
 Each repository has:
 
@@ -33,15 +53,6 @@ Each repository has:
 - MIT license
 
 The website for each project is statically-generated and hosted through GitHub.
-
-.. At the heart is the `GEOMETOR explorer`_ - a Python library for building and
-.. analyzing geometric constructions with sympbolic algebra.
-
-.. - phyllotaxis
-  .. model and investigate geometry of plants
-
-.. - pappus
-  .. model and investigate pappus theorem
 
 contribute
 ----------
@@ -67,7 +78,9 @@ Check out general info on **GEOMETOR**:
 .. _render: https://github.com/geometor/render
 .. _elements: https://github.com/geometor/elements
 .. _divine: https://github.com/geometor/divine
-.. _explorer: https://github.com/geometor/explorer
+
+.. _arcprize: https://github.com/geometor/arcprize
+.. _arcprizesessions: https://github.com/geometor/arcprizesessions
 
 .. _geometor.com: https://geometor.com
 
