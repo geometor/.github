@@ -16,22 +16,35 @@ Contents:
 fundamental aspects of geometry, nature, and logic.
 
 A key mission has been the development of a Python software library to create
-symbolic models of classical geometric constructions
+symbolic models of classical geometric constructions.
 
 
 abstraction and reasoning
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 .. image:: ./arc-banner.png
    :align: center
 
-While the emphasis of the **GEOMETOR** project, has been geometry 
+While the emphasis of the **GEOMETOR** project has been geometry, we have
+recently become
+very interested in how machines can discern a sequence of logical operations to
+get to a place you've never been to before.
+
+This is the nature of the geometric proof. 
+
+The ARC challenge (https://arcprize.org/) has the same intrigue.
+
+Our investigations into ARC are contained in two repos:
 
 - arcprize_: code and reference materials
-- arcprizesessions_:
+- arcprizesessions_: sessions logs of facilitated tests
+
+We are currently building an **agent** with the `Gemini API
+<https://ai.google.dev/gemini-api/docs>`_
+
 
 geometric modeling
-~~~~~~~~~~~~~~~~~~
+------------------
 
 .. image:: ./geom-banner.png
    :align: center
@@ -39,31 +52,35 @@ geometric modeling
 .. At the heart is the `GEOMETOR explorer`_ - a Python library for building and
 .. analyzing geometric constructions with sympbolic algebra.
 
-All of the research and development for **GEOMETOR** is located here in a
-collection of repositories. There are many, but these establish the foundation for the work:
+The core mission of **GEOMETOR** is to develop tools to model, render and
+analyze complex geometric Euclidean constructions using symbolic algebra with
+the help of Sympy and Matplotlib
 
 - model_: tools for modeling geometric constructions
 - render_: tools for rendering geometric constructions
 - divine_: model and analyze the golden ratio
 - elements_: extract and codify knowledge from the classic work
+
 .. - explorer_: explore and interact with geometric models
 
+
 patterns in nature
-~~~~~~~~~~~~~~~~~~
+------------------
 
 .. image:: ./rings-banner.png
 
-- phyllotaxis
+- phyllotaxis_
 
-  model and investigate geometry of plants
+  model and investigate geometry of plants particularly relating to the golden
+  ratio
 
 
-other interesting projects
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. other interesting projects
+.. ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- pappus
+.. - pappus
 
-  model and investigate pappus theorem
+  .. model and investigate pappus theorem
 
 Each repository has:
 
@@ -76,6 +93,7 @@ Each repository has:
 - MIT license
 
 The website for each project is statically-generated and hosted through GitHub.
+
 
 contribute
 ----------
