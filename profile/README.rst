@@ -5,8 +5,11 @@ exploring the architecture of all that is
    :align: center
 
 
-**GEOMETOR** is an open-source initiative dedicated to the
+**GEOMETOR** is an open-source initiative dedicated to the exploration of
 fundamental aspects of geometry, nature, and logic.
+
+A key mission has been the development of a Python software library to create
+symbolic models of classical geometric constructions
 
 
 abstraction and reasoning
@@ -15,6 +18,7 @@ abstraction and reasoning
 .. image:: ./arc-banner.png
    :align: center
 
+While the emphasis of the **GEOMETOR** project, has been geometry 
 
 - arcprize_: code and reference materials
 - arcprizesessions_:
@@ -22,6 +26,8 @@ abstraction and reasoning
 geometric modeling
 ~~~~~~~~~~~~~~~~~~
 
+.. image:: ./geom-banner.png
+   :align: center
 
 All of the research and development for **GEOMETOR** is located here in a
 collection of repositories. There are many, but these establish the foundation for the work:
@@ -30,7 +36,7 @@ collection of repositories. There are many, but these establish the foundation f
 - render_: tools for rendering geometric constructions
 - divine_: model and analyze the golden ratio
 - elements_: extract and codify knowledge from the classic work
-- explorer_: explore and interact with geometric models
+.. - explorer_: explore and interact with geometric models
 
 
 .. At the heart is the `GEOMETOR explorer`_ - a Python library for building and
