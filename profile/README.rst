@@ -4,6 +4,13 @@ exploring the architecture of all that is
 .. image:: ./root3-harmonics-banner.png
    :align: center
 
+Contents:
+
+- `abstraction and reasoning`_
+- `geometric modeling`_
+- `patterns in nature`_
+- `other interesting projects`_
+- `contribute`_
 
 **GEOMETOR** is an open-source initiative dedicated to the exploration of
 fundamental aspects of geometry, nature, and logic.
@@ -29,6 +36,9 @@ geometric modeling
 .. image:: ./geom-banner.png
    :align: center
 
+.. At the heart is the `GEOMETOR explorer`_ - a Python library for building and
+.. analyzing geometric constructions with sympbolic algebra.
+
 All of the research and development for **GEOMETOR** is located here in a
 collection of repositories. There are many, but these establish the foundation for the work:
 
@@ -38,15 +48,22 @@ collection of repositories. There are many, but these establish the foundation f
 - elements_: extract and codify knowledge from the classic work
 .. - explorer_: explore and interact with geometric models
 
+patterns in nature
+~~~~~~~~~~~~~~~~~~
 
-.. At the heart is the `GEOMETOR explorer`_ - a Python library for building and
-.. analyzing geometric constructions with sympbolic algebra.
+.. image:: ./rings-banner.png
 
-.. - phyllotaxis
-  .. model and investigate geometry of plants
+- phyllotaxis
 
-.. - pappus
-  .. model and investigate pappus theorem
+  model and investigate geometry of plants
+
+
+other interesting projects
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- pappus
+
+  model and investigate pappus theorem
 
 Each repository has:
 
@@ -66,11 +83,6 @@ We welcome contributions from anyone interested in geometry, mathematics,
 nature, or programming. Feel free to contribute to our repositories, raise
 issues, or propose enhancements.
 
-discuss
--------
-Reach out to us at our official email or via our GitHub profiles for any
-queries, suggestions, or discussions. We are always eager to engage with our
-community and foster a collaborative environment.
 
 Check out general info on **GEOMETOR**:
 
@@ -87,6 +99,8 @@ Check out general info on **GEOMETOR**:
 
 .. _arcprize: https://github.com/geometor/arcprize
 .. _arcprizesessions: https://github.com/geometor/arcprizesessions
+
+.. _phyllotaxis: https://github.com/geometor/phyllotaxis
 
 .. _geometor.com: https://geometor.com
 
