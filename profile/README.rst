@@ -4,121 +4,82 @@ exploring the architecture of all that is
 .. image:: ./root3-harmonics-banner.png
    :align: center
 
+**GEOMETOR** is an open-source initiative for exploring geometry, nature, and logic through symbolic modeling. We develop tools to create, visualize, and analyze geometric constructions, with a focus on discovering fundamental patterns and advancing machine reasoning.
+
 Contents:
 
-- `abstraction and reasoning`_
-- `geometric modeling`_
-- `patterns in nature`_
-- `other interesting projects`_
-- `contribute`_
+- `GEOMETOR Explorer`_
+- `Core Libraries`_
+- `Research and Exploration`_
+- `Contribute`_
 
-**GEOMETOR** is an open-source initiative dedicated to the exploration of
-fundamental aspects of geometry, nature, and logic.
-
-A key mission has been the development of a Python software library to create
-symbolic models of classical geometric constructions.
-
-
-abstraction and reasoning
--------------------------
-
-.. image:: ./arc-banner.png
-   :align: center
-
-While the emphasis of the **GEOMETOR** project has been geometry, we have
-recently become
-very interested in how machines can discern a sequence of logical operations to
-get to a place you've never been to before.
-
-This is the nature of the geometric proof. 
-
-The ARC challenge (https://arcprize.org/) has the same intrigue.
-
-Our investigations into ARC are contained in two repos:
-
-- arcprize_: code and reference materials
-- arcprizesessions_: sessions logs of facilitated tests
-
-We are currently building an **agent** with the `Gemini API
-<https://ai.google.dev/gemini-api/docs>`_
-
-
-geometric modeling
-------------------
+GEOMETOR Explorer
+-----------------
 
 .. image:: ./geom-banner.png
    :align: center
 
-.. At the heart is the `GEOMETOR explorer`_ - a Python library for building and
-.. analyzing geometric constructions with sympbolic algebra.
+The `explorer`_ is a web-based application for creating and interacting with geometric constructions. It serves as the primary interface to the GEOMETOR ecosystem, allowing users to visually build models and engage with the underlying symbolic algebra powered by Sympy.
 
-The core mission of **GEOMETOR** is to develop tools to model, render and
-analyze complex geometric Euclidean constructions using symbolic algebra with
-the help of Sympy and Matplotlib
+Core Libraries
+--------------
 
-- model_: tools for modeling geometric constructions
-- render_: tools for rendering geometric constructions
-- divine_: model and analyze the golden ratio
-- elements_: extract and codify knowledge from the classic work
+The explorer is supported by a set of powerful libraries:
 
-.. - explorer_: explore and interact with geometric models
+- model_: Provides the foundational classes for defining geometric elements (points, lines, circles) and their relationships.
+- divine_: Analyzes models to uncover significant geometric properties, with a special focus on the golden ratio.
 
+Research and Exploration
+------------------------
 
-patterns in nature
-------------------
+We apply our modeling tools to a range of fascinating research areas:
+
+Abstraction and Reasoning
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: ./arc-banner.png
+   :align: center
+
+A major focus is exploring how machines can perform logical deduction, similar to solving a geometric proof. This has led to the development of **SEER**, an AI framework that uses a multi-agent system to solve abstract reasoning challenges like those in the ARC prize.
+
+- seer_: An AI framework for perception and discernment in reasoning challenges.
+- seer_navigator_: A Textual-based tool for reviewing SEER test results.
+- seer_sessions_: Session logs and outputs from SEER agent tests.
+- arcprize_: General code and reference materials for the ARC prize.
+
+Patterns in Nature
+~~~~~~~~~~~~~~~~~~
 
 .. image:: ./rings-banner.png
+   :align: center
 
-- phyllotaxis_
+- phyllotaxis_: Investigates the geometric patterns of plants, particularly those related to the golden ratio.
 
-  model and investigate geometry of plants particularly relating to the golden
-  ratio
+Classical Geometry
+~~~~~~~~~~~~~~~~~~
 
-
-.. other interesting projects
-.. ~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. - pappus
-
-  .. model and investigate pappus theorem
-
-Each repository has:
-
-- Python source code
-- demo code
-- source for project website
-- discussion group
-- log
-- todo list
-- MIT license
-
-The website for each project is statically-generated and hosted through GitHub.
+- elements_: A project to extract and codify the knowledge from Euclid's Elements.
 
 
-contribute
+Contribute
 ----------
-We welcome contributions from anyone interested in geometry, mathematics,
-nature, or programming. Feel free to contribute to our repositories, raise
-issues, or propose enhancements.
-
+We welcome contributions from anyone interested in geometry, mathematics, nature, or programming. Feel free to contribute to our repositories, raise issues, or propose enhancements.
 
 Check out general info on **GEOMETOR**:
 
 - geometor.com_
--
 
 **GEOMETOR** is an organization led by `phi ARCHITECT`_
 
 .. _`phi ARCHITECT`: https://github.com/phiarchitect
+.. _explorer: https://github.com/geometor/explorer
 .. _model: https://github.com/geometor/model
-.. _render: https://github.com/geometor/render
-.. _elements: https://github.com/geometor/elements
 .. _divine: https://github.com/geometor/divine
-
+.. _seer: https://github.com/geometor/seer
+.. _seer_navigator: https://github.com/geometor/seer_navigator
+.. _seer_sessions: https://github.com/geometor/seer_sessions
 .. _arcprize: https://github.com/geometor/arcprize
-.. _arcprizesessions: https://github.com/geometor/arcprizesessions
-
 .. _phyllotaxis: https://github.com/geometor/phyllotaxis
-
+.. _elements: https://github.com/geometor/elements
 .. _geometor.com: https://geometor.com
 
