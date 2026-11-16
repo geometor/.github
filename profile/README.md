@@ -22,12 +22,12 @@ Geometry is humanity's most concise language for documenting nature, proportion,
 
 $$\phi = \frac{1 + \sqrt{5}}{2}$$
 
-Across **61 interconnected repositories**, GEOMETOR recasts 2,400 years of classical geometry, projective synthesis, botanical morphogenesis, epistemological philosophy, and machine reasoning into **one consistent, executable symbolic grammar**:
+Across **61 interconnected repositories**, **GEOMETOR** builds a **semantic digital archive** that liberates 2,400 years of classical geometry, projective synthesis, botanical morphogenesis, epistemological philosophy, and machine reasoning from isolated print bounds into **one consistent, executable symbolic grammar**:
 
 - **74 Scholarly Book Codices (*39 Authors*)**: Multi-track critical editions of foundational public-domain treatises (*Greek, Latin, Italian, German, French, and English*) backed by **8,400+ primary-source folio scans** and calibrated `.euclid-graphic` vector figures.
 - **11 Mathematical Catalogs**: One-item-per-page symbolic compendia documenting classical dependency graphs, triangle centers, rational trigonometry laws, 3D polyhedra, golden ratio constructions, Fibonacci identities, and theorem-proving engines.
 
-> **Complete Digital Scriptorium & Symbolic Catalogs**: Browse direct links to all **74 working Book Codices** and **11 Mathematical Catalogs** at [**geometor.com/books/**](https://geometor.com/books/).
+> **Explore the Online Archive**: Browse all **74 Book Codices** and **11 Mathematical Catalogs** at [**geometor.com/books/**](https://geometor.com/books/) — or filter repositories on GitHub by topic: [**`books`**](https://github.com/orgs/geometor/repositories?q=topic%3Abooks) · [**`catalogs`**](https://github.com/orgs/geometor/repositories?q=topic%3Acatalogs) · [**`people`**](https://github.com/orgs/geometor/repositories?q=topic%3Apeople) · [**`modules`**](https://github.com/orgs/geometor/repositories?q=topic%3Amodules)
 
 ---
 
